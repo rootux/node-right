@@ -6,3 +6,7 @@ Uses:
 * https://github.com/airbnb/javascript
 * http://bluebirdjs.com/
 * express
+
+# Debug
+`knex migrate:latest`
+`npm run start`
