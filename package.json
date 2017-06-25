@@ -1,0 +1,25 @@
+{
+  "name": "noderight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "3.5.0",
+    "body-parser": "1.17.2",
+    "express": "4.15.3",
+    "knex": "0.13.0",
+    "sqlite3": "3.1.8"
+  },
+  "devDependencies": {
+    "eslint": "4.1.0",
+    "eslint-config-airbnb": "15.0.1",
+    "eslint-plugin-import": "2.6.0",
+    "eslint-plugin-jsx-a11y": "5.0.3"
+  }
+}
